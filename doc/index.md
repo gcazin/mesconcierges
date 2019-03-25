@@ -1,22 +1,22 @@
-# Cocorico Documentation
+# Documentation Mesconcierges
 
 
-## Table of Contents
+## Sommaire
 
-- [Server installation](installation-server.md)
-- [Application installation](installation-application.md)
-- [Crons](crons.md)
+- [Installation sur serveyr](installation-server.md)
+- [Installation de l'application](installation-application.md)
+- [Tâches Crons](crons.md)
 - [Mails](mails.md)
-- [Translations](translations.md)
+- [Traduction](translations.md)
 - [MongoDB](mongodb.md)
 - [Routing](routing.md)
-- [Parameters](parameters.md)
-- [Prices](prices.md)
-- [Times](times.md)
+- [Paramètres](parameters.md)
+- [Prix](prices.md)
+- [Dates](times.md)
 - [Twig](twig.md)
-- [Breadcrumbs](breadcrumbs.md)
-- [Virtual Host](virtual-hosts.md)
+- [Fil d'Ariane](breadcrumbs.md)
+- [Hôte virtuel](virtual-hosts.md)
 - [Tests](tests.md)
-- [Deployment](deployment.md)
-- [Troubleshooting](troubleshooting.md)
-- [WkHtml2PDF](wkhtml2pdf.md)
+- [Déploiement](deployment.md)
+- [Problèmes](troubleshooting.md)
+- [Librarie WkHtml2PDF](wkhtml2pdf.md)
